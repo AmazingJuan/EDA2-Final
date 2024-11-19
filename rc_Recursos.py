@@ -3,6 +3,8 @@
 # Created by: The Resource Compiler for Qt version 6.8.0
 # WARNING! All changes made in this file will be lost!
 
+#ESTE ARCHIVO CONTIENE LAS IMAGENES DE LOS ICONOS QUE ESTÁN EN EL PROGRAMA.
+
 from PySide6 import QtCore
 
 qt_resource_data = b"\

@@ -8,6 +8,8 @@
 ## WARNING! All changes made in this file will be lost when recompiling UI file!
 ################################################################################
 
+#ESTE ARCHIVO CONTIENE TODOS LOS DETALLES DE LA INTERFAZ GRAFICA, FUE GENERADO CON QT DESIGNER.
+
 from PySide6.QtCore import (QCoreApplication, QDate, QDateTime, QLocale,
     QMetaObject, QObject, QPoint, QRect,
     QSize, QTime, QUrl, Qt)
