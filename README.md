@@ -1,5 +1,5 @@
 
-# Proyecto: Simulador de Comandos SQL con Árbol B+
+# Proyecto Final: Editor de Texto
 
 Este proyecto implementa un editor de texto muy básico que permite hacer operaciones de 
 creacion, apertura y guardado de archivos. 
